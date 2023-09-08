@@ -6,9 +6,13 @@ Final case study achieve a score of 0.82807 by utilizing the BERT pretrained mod
 
 Content in the tutorial includes but not limited to:
 🟢 Overview of NLP Pipeline
+
 🟢 Tokenization and spaCy pipeline
+
 🟢 Stop Word
+
 🟢 Stemming and Lemmatization
+
 🟢 Out of Vocabulary (OOV)
 🟢 POS (Part of Speech) tagging
 🟢 Name Entity Recognition (NER)
