@@ -4,7 +4,7 @@ Hands to hands beginner friendly introduction on NLP, including a case study at 
 
 Final case study achieve a score of 0.82807 by utilizing the BERT pretrained model, top 20% of the leaderboard at the time of submission.
 
-Links to kaggle notebooks: <br>
+### Links to kaggle notebooks: <br>
 
 ✅ Comprehensive Overview on NLP for Beginners 🥳 (collection of all series)
 https://www.kaggle.com/code/crxxom/comprehensive-overview-on-nlp-for-beginners
@@ -22,7 +22,7 @@ https://www.kaggle.com/code/crxxom/nlp-beginner-series-part-2-2-embedding-models
 https://www.kaggle.com/code/crxxom/nlp-beginner-series-part-3-case-study
 
 
-Content in the tutorial includes but not limited to: <br>
+### Content in the tutorial includes but not limited to: <br>
 <br>
 🟢 Overview of NLP Pipeline <br>
 🟢 Tokenization and spaCy pipeline <br>
