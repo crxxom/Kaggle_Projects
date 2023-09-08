@@ -4,7 +4,10 @@ As a self-taught data scientist, Kaggle offers a great place for me to practice 
 
 I started my journey of self learning data science and machine learning with Python since around the beginning of 2023, and I would like to show my sincere gratitude to all the support given by this wonderful community with all their wonderful resources and tutorials.
 
-Titles: Kaggle Dataset Expert, Kaggle Notebook Expert
+**My Kaggle profile**: https://www.kaggle.com/crxxom
+
+**Titles**: Kaggle Dataset Expert, Kaggle Notebook Expert
+
 
 Here are some competitions and projects that I have participated (by chronological order of participation)
 
