@@ -17,3 +17,4 @@ Here are some competitions and projects that I have participated (by chronologic
 4. House Prices - Advanced Regression Techniques (top 30%): https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 5. K-mean Clustering with Customer Spending: https://www.kaggle.com/datasets/goyaladi/customer-spending-dataset
 6. Natural Language Processing with Disaster Tweets (top 20%): https://www.kaggle.com/competitions/nlp-getting-started
+7. Commonlit - Evaluate Students Summaries
